@@ -1,10 +1,16 @@
 {
-  "name": "NExRjuMuWI8qlAEz63WafDpjPpGszCrk2AfneyUwLYblDg6Hso",
+  "name": "ตารางคะแนน เกาหลี สมัครยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.34",
   "description": "ตารางคะแนน เกาหลี เลขเด็ดงวดนี้ กับ ตารางคะแนน เกาหลี Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด ทางเว็บไซต์หวยไทยของเราขอนำเสนอชุดเลขผลงานดีจาก หวยแม่นจ",
   "repository": "https://github.com/gullibles-02/underdoor-03",
-  "keywords": ["ตารางคะแนน เกาหลี","ตารางคะแนน","เกาหลี","ตารางคะแนน Thailotto","เกาหลี Thailotto"],
+  "keywords": [
+    "ตารางคะแนน เกาหลี",
+    "ตารางคะแนน",
+    "เกาหลี",
+    "ตารางคะแนน Thailotto",
+    "เกาหลี Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
