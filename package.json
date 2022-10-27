@@ -1,10 +1,13 @@
 {
-  "name": "vgoVXHL40A0zQo1nRHmtYLfijI9OzWYzsXadPY7SujYtxeaVJ4",
+  "name": "หวยออกปี63 ที่ไหน - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.32",
   "description": "หวยออกปี63 ( แม้ว่า หวยออกปี63 Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด กลับเลขเอาเองนะ )เลขเด็ด 3 ตัวเลขบนเลขที่ตีจาก ผังเลขเด็ดงวด 16 เมษายน 2566เลขเ",
   "repository": "https://github.com/gullibles-02/underdoor-03",
-  "keywords": ["หวยออกปี63","หวยออกปี63 Huay Happy"],
+  "keywords": [
+    "หวยออกปี63",
+    "หวยออกปี63 Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
