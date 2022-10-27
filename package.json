@@ -1,10 +1,13 @@
 {
-  "name": "BdoYFVMoo3D2cLVCXc298nAHmiKNCaI5ENwdHBFQlDPRYScDGe",
+  "name": "ข้อดีหวยมาเลย์ ดูยังไง - เว็บใหม่ 77lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.44",
   "description": "ข้อดีหวยมาเลย์ 2.1. แต่ ข้อดีหวยมาเลย์ 77Lotto หวยออนไลน์ อันดับหนึ่ง",
   "repository": "https://github.com/gullibles-02/underdoor-03",
-  "keywords": ["ข้อดีหวยมาเลย์","ข้อดีหวยมาเลย์ 77Lotto"],
+  "keywords": [
+    "ข้อดีหวยมาเลย์",
+    "ข้อดีหวยมาเลย์ 77Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
