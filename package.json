@@ -1,10 +1,16 @@
 {
-  "name": "gXR2RhqXR7JYmKjS3mQLIcaqN0qlASCMItXtSMQjhGlh71mRqF",
+  "name": "รีวิว เว็บหวยสด คืออะไร - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "รีวิว เว็บหวยสด วันพุธ ถึง รีวิว เว็บหวยสด ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง คนเกิดวันพุธ ดูเป็นคนคาดเดาอารมณ์ยาก เหมือนจะไม่เป็นอะไร แต่จริงๆ เป็น รี",
   "repository": "https://github.com/gullibles-02/underdoor-03",
-  "keywords": ["รีวิว เว็บหวยสด","รีวิว","เว็บหวยสด","รีวิว Huaydee","เว็บหวยสด Huaydee"],
+  "keywords": [
+    "รีวิว เว็บหวยสด",
+    "รีวิว",
+    "เว็บหวยสด",
+    "รีวิว Huaydee",
+    "เว็บหวยสด Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
