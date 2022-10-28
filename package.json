@@ -1,18 +1,10 @@
 {
-  "name": "ชาร์ท หุ้น ไต้หวัน คืออะไร - เว็บใหม่ huaysod 2023 ล่าสุด",
+  "name": "iTOdzba3ZND90J4exU75YuXCVdjeRK40jO00YtqXcLfoGUiZTb",
   "theme": "syntax",
   "version": "1.0.84",
   "description": "ชาร์ท หุ้น ไต้หวัน ราคาจ่ายหวยหุ้นไทยต่างประเทศเมื่อระบบมีการปรับเปลี่ยนแปลงอัตราจ่ายจะแจ้งให้ทราบล้วงหน้าก่อน ดั่ง ชาร์ท หุ้น ไต้หวัน ที่ Huaysod เว็บหวยอ",
   "repository": "https://github.com/gullibles-02/underdoor-03",
-  "keywords": [
-    "ชาร์ท หุ้น ไต้หวัน",
-    "ชาร์ท",
-    "หุ้น",
-    "ไต้หวัน",
-    "ชาร์ท Huaysod",
-    "หุ้น Huaysod",
-    "ไต้หวัน Huaysod"
-  ],
+  "keywords": ["ชาร์ท หุ้น ไต้หวัน","ชาร์ท","หุ้น","ไต้หวัน","ชาร์ท Huaysod","หุ้น Huaysod","ไต้หวัน Huaysod"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
