@@ -1,10 +1,13 @@
 {
-  "name": "LcNDNE9Hahh3kNNCZIaLQi6AMwJZVDJ5GcWUL4mKBhyMxHJClA",
+  "name": "หุ้นฮั่งเส็งบ่ายออกกี่โมง ทำไมถึงนิยม - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.82",
   "description": "หุ้นฮั่งเส็งบ่ายออกกี่โมง นักเสี่ยงโชคทั้งหลาย จาก หุ้นฮั่งเส็งบ่ายออกกี่โมง ที่ Jetsadabet เว็บหวยออนไลน์ อันดับหนึ่ง สามารถติดตาม ผลหวยลาววันนี้ ถ่ายทอดส",
   "repository": "https://github.com/gullibles-02/underdoor-03",
-  "keywords": ["หุ้นฮั่งเส็งบ่ายออกกี่โมง","หุ้นฮั่งเส็งบ่ายออกกี่โมง Jetsadabet"],
+  "keywords": [
+    "หุ้นฮั่งเส็งบ่ายออกกี่โมง",
+    "หุ้นฮั่งเส็งบ่ายออกกี่โมง Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
