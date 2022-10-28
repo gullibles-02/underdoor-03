@@ -1,13 +1,10 @@
 {
-  "name": "ผลอังกฤษวันนี้ คืออะไร - เว็บใหม่ choke 2023 ล่าสุด",
+  "name": "5xmzAaUtiU5PixsYyYApNCVzjq1HACffuYQ7X0EnDXYwWHE2C1",
   "theme": "syntax",
   "version": "1.0.88",
   "description": "ผลอังกฤษวันนี้ เลขเด็ดงวดนี้ เนื่องแต่ ผลอังกฤษวันนี้ ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง เว็บไซต์หวยไทยของเราขอนำเสนอชุดเลขแนวทางหวยรัฐบาลในงวดวันอาทิตย์",
   "repository": "https://github.com/gullibles-02/underdoor-03",
-  "keywords": [
-    "ผลอังกฤษวันนี้",
-    "ผลอังกฤษวันนี้ Choke"
-  ],
+  "keywords": ["ผลอังกฤษวันนี้","ผลอังกฤษวันนี้ Choke"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
